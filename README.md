@@ -161,6 +161,12 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 1. Commit your changes.
 1. Wait about 20 seconds then refresh this page for the next step.
 
+#### How Activity looks
+
+```
+git status
+```
+
 </details>
 
 <!--
