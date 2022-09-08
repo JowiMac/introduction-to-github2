@@ -215,6 +215,21 @@ GitHub Actions went ahead and made a branch and a pull request for you. So you'l
 1. Commit the changes to the file.
 1. Wait about 20 seconds then refresh this page for the next step.
 
+  
+  #### How example Activity looks
+  
+  ```md
+  - [x] Step 3 complete
+  - [x] Step 4 complete
+  - [ ] Step 5 complete
+  ```
+  
+  #### How Activity looks
+  
+  - [x] Step 3 complete
+  - [x] Step 4 complete
+  - [ ] Step 5 complete
+    
 </details>
 
 <!--
