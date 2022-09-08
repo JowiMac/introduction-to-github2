@@ -1,3 +1,4 @@
+# Github Learning
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -5,7 +6,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Communicate using Markdown
+### Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
