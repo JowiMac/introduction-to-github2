@@ -1,3 +1,4 @@
+# Github Learning
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -5,7 +6,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Communicate using Markdown
+### Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -111,7 +112,7 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 
 #### How it looks
 
-<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### :keyboard: Activity: Adding an image
 
@@ -159,6 +160,12 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 1. Use the **Preview** tab to check your Markdown formatting.
 1. Commit your changes.
 1. Wait about 20 seconds then refresh this page for the next step.
+
+#### How Activity looks
+
+```
+git status
+```
 
 </details>
 
@@ -208,6 +215,21 @@ GitHub Actions went ahead and made a branch and a pull request for you. So you'l
 1. Commit the changes to the file.
 1. Wait about 20 seconds then refresh this page for the next step.
 
+  
+  #### How example Activity looks
+  
+  ```md
+  - [x] Step 3 complete
+  - [x] Step 4 complete
+  - [ ] Step 5 complete
+  ```
+  
+  #### How Activity looks
+  
+  - [x] Step 3 complete
+  - [x] Step 4 complete
+  - [ ] Step 5 complete
+    
 </details>
 
 <!--
